@@ -2,8 +2,8 @@
 
 [![HOME](https://img.shields.io/badge/HOME-PlumLi-brightgreen.svg.svg)](https://github.com/licunzhi/dream_on_sakura_rain)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/licunzhi/dream_on_sakura_rain/pulls)
-![GitHub stars](https://img.shields.io/github/stars/licunzhi/dream_on_sakura_rain.svg?style=social)
-![GitHub forks](https://img.shields.io/github/forks/licunzhi/dream_on_sakura_rain.svg?style=social)
+![GitHub stars](https://img.shields.io/github/stars/licunzhi/poi.svg?style=social)
+![GitHub forks](https://img.shields.io/github/forks/licunzhi/poi.svg?style=social)
 
 # 运行环境
 - java8 or later
